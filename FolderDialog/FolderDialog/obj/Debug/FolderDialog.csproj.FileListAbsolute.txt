@@ -1,0 +1,9 @@
+C:\Users\mort8\source\repos\FolderDialog\FolderDialog\bin\Debug\FolderDialog.exe.config
+C:\Users\mort8\source\repos\FolderDialog\FolderDialog\bin\Debug\FolderDialog.exe
+C:\Users\mort8\source\repos\FolderDialog\FolderDialog\bin\Debug\FolderDialog.pdb
+C:\Users\mort8\source\repos\FolderDialog\FolderDialog\obj\Debug\FolderDialog.csprojAssemblyReference.cache
+C:\Users\mort8\source\repos\FolderDialog\FolderDialog\obj\Debug\FolderDialog.Form1.resources
+C:\Users\mort8\source\repos\FolderDialog\FolderDialog\obj\Debug\FolderDialog.Properties.Resources.resources
+C:\Users\mort8\source\repos\FolderDialog\FolderDialog\obj\Debug\FolderDialog.csproj.GenerateResource.cache
+C:\Users\mort8\source\repos\FolderDialog\FolderDialog\obj\Debug\FolderDialog.exe
+C:\Users\mort8\source\repos\FolderDialog\FolderDialog\obj\Debug\FolderDialog.pdb
